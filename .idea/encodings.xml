@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Algorithm/src/com/longgg/binarysearchnorecursion/BinarySearchNoRecur.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Algorithm/src/com/longgg/dac/Hanoitower.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/avl/AVLTreeDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/graph/Graph.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/hashtab/HashTabDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/linkedlist/DoubleLinkedListDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/linkedlist/SingleLinkedListDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/queue/ArrayQueueDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/queue/CircleArrayQueueDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/BubbleSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/InsertSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/QuickSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/SelectSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/ShellSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sparsearray/SparseArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/stack/ArrayStackDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/stack/Calculator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/stack/PolandNotation.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
