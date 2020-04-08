@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbbd5a68-797b-4662-b7a9-939cf49c0c8d" name="Default Changelist" comment="" />
+    <list default="true" id="dbbd5a68-797b-4662-b7a9-939cf49c0c8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mengnan/src/com/longgg/sort/MergetSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/com/longgg/sort/MergetSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/com/longgg/sort/MergetSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mengnan" />
+  </component>
   <component name="ProjectId" id="1VhuxQoGEAvGV6jteSgbH7zJfm3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,9 +43,22 @@
       <recent name="F:\IDEAWORKSPACE\soul" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShellSort">
+  <component name="RunManager" selected="Application.MergetSort">
     <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.longgg.sort.InsertSort" />
+      <module name="mengnan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.longgg.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergetSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.longgg.sort.MergetSort" />
       <module name="mengnan" />
       <extension name="coverage">
         <pattern>
@@ -53,19 +73,6 @@
     <configuration name="QuickSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.longgg.sort.QuickSort" />
       <module name="mengnan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.longgg.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.longgg.sort.QuickSort" />
-      <module name="datastructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.longgg.sort.*" />
@@ -104,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergetSort" />
         <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.QuickSort (1)" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +150,7 @@
       <workItem from="1585297899447" duration="2268000" />
       <workItem from="1585353893752" duration="9442000" />
       <workItem from="1586049953887" duration="1495000" />
+      <workItem from="1586336531225" duration="2678000" />
     </task>
     <servers />
   </component>
@@ -150,22 +158,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1585405218329">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1586338246339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585405218329" />
-    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1585405218329">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586338246339" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1586338246339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585405218329" />
-    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1585405218329">
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586338246339" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1586338246338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585405218329" />
-    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1585405218329">
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586338246338" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1586338246339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585405218329" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586338246339" />
     <state x="164" y="115" width="1230" height="709" key="SettingsEditor" timestamp="1577719713137">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -178,5 +186,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="113" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585098104118" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586338023780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586338023780" />
   </component>
 </project>

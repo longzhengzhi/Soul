@@ -12,6 +12,7 @@
     <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/queue/CircleArrayQueueDemo.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/BubbleSort.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/InsertSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/MergetSort.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/QuickSort.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/SelectSort.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/datastructure/src/com/longgg/sort/ShellSort.java" charset="GBK" />
